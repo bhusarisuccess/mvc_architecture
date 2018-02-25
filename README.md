@@ -1,2 +1,2 @@
-# clean-android
-clean-android
+# Clean code writing for Android
+
